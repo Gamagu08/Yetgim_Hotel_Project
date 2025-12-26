@@ -73,6 +73,10 @@ git clone https://github.com/Gamagu08/Yetgim_Hotel_Project.git
 3. Run the application:
    python main.py
 
+🔑 Default Admin Credentials
+Use these credentials to access the Admin Panel:
+Password: admin123
+
 🧪 Error Handling
 The project uses custom exceptions (HotelError, RoomOccupiedError, etc.) to handle invalid user input and unexpected situations gracefully, ensuring a smooth user experience without crashing.
 
