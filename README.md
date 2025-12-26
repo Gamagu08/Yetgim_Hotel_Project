@@ -61,25 +61,16 @@ Yetgim_Hotel_Project/
 
 ▶️ How to Run the Project
 Requirements
-  ▫ Python 3.8 or higher
+  - Python 3.8 or higher
 
   Steps
 1. Clone the repository:
-
-   Bash
-
-   git clone [https://github.com/Gamagu08/Yetgim_Hotel_Project.git](https://github.
+git clone https://github.com/Gamagu08/Yetgim_Hotel_Project.git
 
 2. Navigate to the project directory:
-
-   Bash
-
    cd Yetgim_Hotel_Project
 
 3. Run the application:
-
-   Bash
-
    python main.py
 
 🧪 Error Handling
@@ -97,6 +88,22 @@ This project was completed as part of the Pendik YETGİM Python Training Program
 - **API Integration:** Creating RESTful API endpoints for mobile application support.
 
 👤 Developer
-Kadir Kırmızıyüz Python Developer (Trainee) GitHub: Gamagu08
+Kadir Kırmızıyüz Python Developer GitHub: Gamagu08
 
 📄 License This project is created for educational purposes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
