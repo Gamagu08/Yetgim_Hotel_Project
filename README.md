@@ -89,7 +89,6 @@ The project uses custom exceptions (HotelError, RoomOccupiedError, etc.) to hand
 This project was completed as part of the Pendik YETGİM Python Training Program and serves as a final graduation project. It is intended for educational purposes to demonstrate the developer’s understanding of Python programming concepts.
 
 🚀 Potential Enhancements (Scope for Expansion)
-
 *Note: This project is a finalized graduation assignment. However, in a real-world production scenario, the following features would be considered for implementation:*
 
 - **Database Migration:** Switching from SQLite to **PostgreSQL** for better concurrency and scalability.
