@@ -97,17 +97,3 @@ Kadir Kırmızıyüz Python Developer GitHub: Gamagu08
 📄 License This project is created for educational purposes.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
