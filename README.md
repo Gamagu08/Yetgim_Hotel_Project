@@ -95,5 +95,3 @@ This project was completed as part of the Pendik YETGİM Python Training Program
 Kadir Kırmızıyüz Python Developer GitHub: Gamagu08
 
 📄 License This project is created for educational purposes.
-
-
